@@ -1,0 +1,11 @@
+.technical {
+    margin-top: 60px;
+    padding-left: 130px;
+}
+.hover :hover{
+    background-color:#138781;
+}
+
+.bg-color{
+    color:#138781;
+}
